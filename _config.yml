@@ -18,13 +18,13 @@ author: Адвокат Вячеслав Блажко
 description: Юридические консультации по любым вопросам 
 avatar: profile.png
 email: v@blazhko.org
-github:  # username
+github:
 twitter: 
 linkedin: https://www.linkedin.com/in/slava-blazhko/
 stackoverflow: #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 disqus: 
-google_analytics: UA-69391421-1
+google_analytics: UA-163982999-1
 
 
 # needed for travis-ci build
