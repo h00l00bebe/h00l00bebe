@@ -1,0 +1,31 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://blazhko.org/
+baseurl: /
+title: Адвокат Вячеслав Блажко 
+author: Адвокат Вячеслав Блажко 
+description: Юридические консультации по любым вопросам 
+avatar: profile.png
+email: v@blazhko.org
+github:  # username
+twitter: 
+linkedin: https://www.linkedin.com/in/slava-blazhko/
+stackoverflow: #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+disqus: 
+google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
